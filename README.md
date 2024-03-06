@@ -93,9 +93,72 @@ Project Name Capacity (in kW) C.O.Y
 19. MATINALLAH MHS (500 + 50 kW) 550 2013
 
 ____________
+
+Serial Number
+0001-000001-003355-UCR-CoU-IN-090-01012014-31122014
+Vintage Year
+2014
+Quantity in CoU Unsorted
+3355
+
+Serial Number
+0001-003356-007164-UCR-CoU-IN-090-01012015-31122015
+Vintage Year
+2015
+Quantity in CoU Unsorted
+3809
+
+Serial Number
+0001-007165-012354-UCR-CoU-IN-090-01012016-31122016
+Vintage Year
+2016
+Quantity in CoU Unsorted
+5190
+
+Serial Number
+0001-012355-016919-UCR-CoU-IN-090-01012017-31122017
+Vintage Year
+2017
+Quantity in CoU Unsorted
+4565
+
+Serial Number
+0001-016920-021124-UCR-CoU-IN-090-01012018-31122018
+Vintage Year
+2018
+Quantity in CoU Unsorted
+4205
+
+Serial Number
+0001-021125-026105-UCR-CoU-IN-090-01012019-31122019
+Vintage Year
+2019
+Quantity in CoU Unsorted
+4981
+
+Serial Number
+0001-026106-032395-UCR-CoU-IN-090-01012020-31122020
+Vintage Year
+2020
+Quantity in CoU Unsorted
+6290
+
+Serial Number: 0001-032396-040110-UCR-CoU-IN-090-01012021-31122021
+Vintage Year
+2021
+Quantity in CoU Unsorted
+7715
+
+______________________________
 Monitoring Period Number: 02
 
 Duration of this monitoring Period: 1 year (first and last days included (01/01/2022 to 31/12/2022)
 ________________
 MP-2  CoUs issue date 06/03/2024
+
+Serial Number: 0002-040111-048418-UCR-CoU-IN-090-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity :8308
 
